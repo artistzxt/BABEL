@@ -1,9 +1,5 @@
 For all general reference, please check the notion document: https://metalanguage.notion.site/BABEL-AGI-d9d6572ac4c543679ec87c93a7a20c1f
 
-For P.I.V.O.T. protocol, please check the notion document: 
-- https://metalanguage.notion.site/AGI-603626d442ac48aa8ca035b20976565e
-- https://metalanguage.notion.site/P-I-V-O-T-Protocol-for-Information-Valuation-with-Open-source-Traceability-e45c0a6112c244589a70853826341d67?pvs=4
-
 # Basic information
  Project name：BABEL
  
