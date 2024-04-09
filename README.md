@@ -1,13 +1,14 @@
-For all general reference, please check the notion document: https://metalanguage.notion.site/AGI-603626d442ac48aa8ca035b20976565e
+For all general reference, please check the notion document: https://metalanguage.notion.site/BABEL-AGI-d9d6572ac4c543679ec87c93a7a20c1f
 
-For P.I.V.O.T. protocol, please check the notion document: https://metalanguage.notion.site/P-I-V-O-T-Protocol-for-Information-Valuation-with-Open-source-Traceability-e45c0a6112c244589a70853826341d67?pvs=4
+For P.I.V.O.T. protocol, please check the notion document: 
+https://metalanguage.notion.site/AGI-603626d442ac48aa8ca035b20976565e
+https://metalanguage.notion.site/P-I-V-O-T-Protocol-for-Information-Valuation-with-Open-source-Traceability-e45c0a6112c244589a70853826341d67?pvs=4
 
 # Basic information
- Project name：PIVOT
+ Project name：BABEL
  
- Starting time： 20230615
+ Starting time： 2024-03
  
-<img width="949" alt="截屏2023-07-04 05 03 16" src="https://github.com/GitVerse-HQ/hackathon-2023-summer-1/assets/113095306/5f538bcc-0dae-48b2-bc3f-4dfd7497dcae">
 
 # Project Description：Build a single Strongest AGI form a peer-to-peer  network.
 
@@ -76,6 +77,7 @@ For P.I.V.O.T. protocol, please check the notion document: https://metalanguage.
 | --- | --- | --- | --- |
 | Zaki |  队长 | Gitverse-Web3 | Gitverse |
 | Strange | 架构师 | Prof-Strange |  |
+| Artist  | PM | Artistzxt | zjuzxt |
 | 枫叶闲庭 | AI工程师 | lizhanyang505 | soulandyvip |
 | 蒹葭苍苍 | AI工程师 | MonicaArnaud | ouahiba0804 |
 | lix | 区块链工程师 | ciconia11 | cryptolix |
