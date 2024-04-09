@@ -3,10 +3,9 @@ For all general reference, please check the notion document: https://metalanguag
 # Basic information
  Project name：BABEL
  
- Starting time： 2024-03
+ Starting time： 2024-01
  
-
-# Project Description：Build a single Strongest AGI form a peer-to-peer  network.
+# Project Description：Build a single Strongest AGI form a peer-to-peer  network. All for one and one for all!
 
  ## Problem and Opportunity
 
@@ -35,7 +34,6 @@ For all general reference, please check the notion document: https://metalanguag
 - Meaningful proof of work + Proof of stake for TPS
     - **Consensus Protocol** :
         - **Proof of Work of Compression (PoWoC)** : Incentivize computing power
-        - **Pivot Protocol** : Incentivize open source algorithms and data
     - **Decentralized  Storage** :
  
  ## Tokenomics of PoWoC  
