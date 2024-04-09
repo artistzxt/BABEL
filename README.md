@@ -5,7 +5,7 @@ For all general reference, please check the notion document: https://metalanguag
  
  Starting time： 2024-01
  
-# Project Description：Build a single Strongest AGI form a peer-to-peer  network. All for one and one for all!
+# Project Description：Build a single Strongest AGI form a peer-to-peer  network. All for One and One for All!
 
  ## Problem and Opportunity
 
